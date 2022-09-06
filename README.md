@@ -1,6 +1,6 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/Vi0LNWGkqyE6yAObSl/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/1qf9BSwuVkxDxynsc7/giphy-downsized.gif" width="300"/>
+  <img src="https://media.giphy.com/media/UgzALXjE4MqayMiban/giphy.gif" width="300"/>
  <img src="https://media.giphy.com/media/kbj8cIJBIzhDynPuiV/giphy.gif" width="300"/>
   <div id="badges">
   <a href="https://vk.com/malgrowerzho_love_bobs">
