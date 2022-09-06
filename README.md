@@ -1,6 +1,6 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/Vi0LNWGkqyE6yAObSl/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/UgzALXjE4MqayMiban/giphy.gif" width="300"/>
+ <img src="https://media.giphy.com/media/UgzALXjE4MqayMiban/giphy.gif" width="300"/>
  <img src="https://media.giphy.com/media/kbj8cIJBIzhDynPuiV/giphy.gif" width="300"/>
   <div id="badges">
   <a href="https://vk.com/malgrowerzho_love_bobs">
@@ -19,3 +19,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a  FUTURE Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from New Lashes.
+
+-------------------------------------------------------------НА СЕРВЕРЕ ЗАПРЕЩЕНО--------------------------------------------------------------------
+
+-  Ругаться матом
